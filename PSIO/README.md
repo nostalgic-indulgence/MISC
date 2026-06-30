@@ -10,4 +10,4 @@ Trimmed MENU.SYS version that omits the lengthy intro video that hogs boot times
 - Delete FIRMWARE.AFW and UPDATE.FPG after successful update.
 
 *read up on it here:-<br>
-https://4pda-to.translate.goog/forum/index.php?showtopic=1053197&_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp
+[https://4pda-to.translate.goog/forum/index.php?showtopic=1053197&_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp](https://4pda-to.translate.goog/forum/index.php?showtopic=1053197&_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
