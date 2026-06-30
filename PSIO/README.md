@@ -8,3 +8,5 @@ Trimmed MENU.SYS version that omits the lengthy intro video that hogs boot times
 
 - Copy all 3 files to root of SD Card for update process.
 - Delete FIRMWARE.AFW and UPDATE.FPG after successful update.
+
+*read up on it here:- https://4pda-to.translate.goog/forum/index.php?showtopic=1053197&_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp
